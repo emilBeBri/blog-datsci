@@ -39,7 +39,7 @@ ignoreFiles = ["\\.Rmd$",
   archive = "archives"
 
 [author]
-  name = "Emil Bellamy Begtrup-Bright"
+  name = "Emil Bellamy Begtrup-Bright TEST01"
   bio = "Sociologist and data scientist"
   job = "Scientific assistant"
   location = "Denmark"
